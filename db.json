@@ -1,5 +1,12 @@
 {
     "tokens": [
+{
+    "id": 0,
+    "description": "MemeMon",
+    "external_url": "https://statics.elemon.io/avatar/28/28_6_6_6_6_6_6.png",
+    "image": "https://statics.elemon.io/avatar/28/28_6_6_6_6_6_6.png",
+    "name": "MemeMon 1"
+  },
   {
     "id": 1,
     "description": "MemeMon",
